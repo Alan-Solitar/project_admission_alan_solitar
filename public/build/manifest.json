@@ -1,0 +1,7 @@
+{
+  "home.js": "http://localhost:8080/0.js",
+  "app.js": "http://localhost:8080/app.js",
+  "vendor.js": "http://localhost:8080/vendor.js",
+  "css/app.css": "http://localhost:8080/css/app.css",
+  "manifest.js": "http://localhost:8080/manifest.js"
+}
